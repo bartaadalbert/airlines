@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 25 18:31:45 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0177-da3f-1c6a-0000077c48d0 
+on database directory /Users/adalbertbarta/IdeaProjects/airlines/airlineDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/adalbertbarta/IdeaProjects/db-derbylib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13+33
+user.dir=/Users/adalbertbarta/IdeaProjects/airlines
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
